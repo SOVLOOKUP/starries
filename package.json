@@ -11,6 +11,9 @@
     "publish": "electron-forge publish",
     "lint": "echo \"No linting configured\""
   },
+  "build":{
+    "electronVersion":"13.1.4"
+  },
   "keywords": [],
   "author": {
     "name": "sovlookup",
